@@ -29,7 +29,7 @@ Start with sysplaycfg:
 
 `python sysplaycfg.py`
 
-After filling out the form, SysplayCFG will generate the configuration file in the same folder.
+After filling out the form, SysplayCFG will generate the configuration file in the same folder. Feel free to leave anything you want blank - some things may still display as a blank field, though.
 
 Then, you can run sysplay:
 
