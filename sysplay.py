@@ -12,7 +12,7 @@ def termclr():
 # typewriter
 def type(x):
     for c in x:
-        print(f"{c}", end="", flush=True) # works in vscodium's debugger, but not in konsole or kitty? strange.
+        print(f"{c}", end="", flush=True)
         time.sleep(0.05)
 
 # too lazy to type this
