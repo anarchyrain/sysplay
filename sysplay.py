@@ -42,9 +42,6 @@ fd2 = data['field2data']
 fl1 = data['flair1']
 fl2 = data['flair2']
 fl3 = data['flair3']
-div = data['div']
-
-# TEMPORARILY UNUSED WHILE I FIGURE OUT HOW THE FUCK TO CODE
 tc = data['titlecolour']
 hc = data['headcolour']
 fc = data['flaircolour']
